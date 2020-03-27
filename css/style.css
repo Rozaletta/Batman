@@ -254,6 +254,7 @@ body {
     color: #AEAEAE;
     font-size: 14px;
     line-height: 16px;
+    max-width: 175px;
 }
 .subscribe-button {
     background: #FF8F27;
